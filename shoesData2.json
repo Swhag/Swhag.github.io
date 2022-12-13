@@ -1,22 +1,22 @@
 [
   {
-    "id": 3,
-    "title": "Vans Fresh",
+    "id": 7,
+    "title": "Lite Racer",
     "content": "Made in Germany",
-    "price": 50
+    "price": 60
   },
 
   {
-    "id": 4,
-    "title": "FitVille Runner",
+    "id": 8,
+    "title": "Afterburner 8 Turf",
     "content": "Made in USA",
-    "price": 65
+    "price": 85
   },
 
   {
-    "id": 5,
-    "title": "Nadiddas Originals",
+    "id": 9,
+    "title": "Court Jam Control",
     "content": "Made in USA",
-    "price": 80
+    "price": 70
   }
 ]
