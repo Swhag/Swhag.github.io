@@ -1,20 +1,20 @@
 [
   {
-    "id": 7,
+    "id": 6,
     "title": "Lite Racer",
     "content": "Made in Germany",
     "price": 60
   },
 
   {
-    "id": 8,
+    "id": 7,
     "title": "Afterburner 8 Turf",
     "content": "Made in USA",
     "price": 85
   },
 
   {
-    "id": 9,
+    "id": 8,
     "title": "Court Jam Control",
     "content": "Made in USA",
     "price": 70
