@@ -18,5 +18,25 @@
     "name": "Adiddas Originals",
     "content": "Made in USA",
     "price": 80
+  },
+  {
+    "id": 6,
+    "name": "Lite Racer",
+    "content": "Made in Germany",
+    "price": 60
+  },
+
+  {
+    "id": 7,
+    "name": "Afterburner 8 Turf",
+    "content": "Made in USA",
+    "price": 85
+  },
+
+  {
+    "id": 8,
+    "name": "Court Jam Control",
+    "content": "Made in USA",
+    "price": 70
   }
 ]
