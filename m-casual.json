@@ -179,5 +179,101 @@
     "items_left": 3,
     "imageURL": "https://images.vans.com/is/image/Vans/MV122M-HERO?$583x583$",
     "slug": "michael-feburary-sk8-hi"
+  },
+  {
+    "id": 16,
+    "name": "Nike Air Force 1",
+    "brand": "NIKE",
+    "gender": "KIDS",
+    "category": "CASUAL",
+    "price": 90,
+    "is_in_inventory": true,
+    "items_left": 3,
+    "imageURL": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/178b2a46-3ee4-492b-882e-f71efdd53a36/air-force-1-big-kids-shoe-2zqp8D.jpg",
+    "slug": "nike-air-force-1"
+  },
+  {
+    "id": 17,
+    "name": "Nike Air Max 90",
+    "brand": "NIKE",
+    "gender": "KIDS",
+    "category": "CASUAL",
+    "price": 100,
+    "is_in_inventory": true,
+    "items_left": 3,
+    "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8439f823-86cf-4086-81d2-4f9ff9a66866/air-max-90-big-kids-shoe-1wzwJM.jpg",
+    "slug": "nike-air-max-90"
+  },
+  {
+    "id": 18,
+    "name": "Nike Air Max 90 LTR",
+    "brand": "NIKE",
+    "gender": "KIDS",
+    "category": "CASUAL",
+    "price": 110,
+    "is_in_inventory": true,
+    "items_left": 3,
+    "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-620aeb37-1b28-44b0-9b14-5572f8cbc948/air-max-90-ltr-big-kids-shoe-hdNLQ5.jpg",
+    "slug": "nike-air-max-90-ltr"
+  },
+  {
+    "id": 19,
+    "name": "NMD_R1 Flash Red",
+    "brand": "ADIDAS",
+    "gender": "WOMEN",
+    "category": "CASUAL",
+    "price": 140,
+    "is_in_inventory": true,
+    "items_left": 5,
+    "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/90f85768e3894aeaab67aba0014a3379_9366/NMD_R1_Shoes_Red_FY9389_01_standard.jpg",
+    "slug": "nmd_r1-flash-red"
+  },
+  {
+    "id": 20,
+    "name": "Superstar",
+    "brand": "ADIDAS",
+    "gender": "WOMEN",
+    "category": "CASUAL",
+    "price": 90,
+    "is_in_inventory": true,
+    "items_left": 3,
+    "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/12365dbc7c424288b7cdab4900dc7099_9366/Superstar_Shoes_White_FW3553_FW3553_01_standard.jpg",
+    "slug": "superstar"
+  },
+  {
+    "id": 21,
+    "name": "Club C Revenge Mens",
+    "brand": "Reebok",
+    "gender": "MEN",
+    "category": "CASUAL",
+    "price": 70,
+    "is_in_inventory": true,
+    "items_left": 3,
+    "imageURL": "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/7599294868804d78a1b1ab6f01718a5e_9366/Club_C_Revenge_Men's_Shoes_White_FV9877_01_standard.jpg",
+    "slug": "club-c-revenge-mens"
+  },
+  {
+    "id": 22,
+    "name": "SK80-Low",
+    "brand": "Vans",
+    "gender": "MEN",
+    "category": "CASUAL",
+    "price": 60,
+    "is_in_inventory": true,
+    "items_left": 3,
+    "imageURL": "https://images.vans.com/is/image/Vans/UUK24I-HERO?$583x583$",
+    "slug": "sk80-low"
+  },
+  {
+    "id": 23,
+    "name": "Michael Feburary SK8-Hi",
+    "brand": "Vans",
+    "gender": "MEN",
+    "category": "CASUAL",
+    "price": 72,
+    "is_in_inventory": true,
+    "items_left": 3,
+    "imageURL": "https://images.vans.com/is/image/Vans/MV122M-HERO?$583x583$",
+    "slug": "michael-feburary-sk8-hi"
   }
 ]
