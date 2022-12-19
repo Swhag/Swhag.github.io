@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Nike React Infinity Run Flyknit",
+    "name": "Nike Infinity Run Flyknit",
     "brand": "NIKE",
     "gender": "MEN",
     "category": "RUNNING",
@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "name": "Nike Mercurial Vapor 13 Elite FG",
+    "name": "Nike Mercurial Vapor 13",
     "brand": "NIKE",
     "gender": "WOMEN",
     "category": "FOOTBALL",
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "name": "Nike Phantom Vision Elite Dynamic Fit FG",
+    "name": "Nike Phantom Vision Elite",
     "brand": "NIKE",
     "gender": "WOMEN",
     "category": "FOOTBALL",
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "name": "Nike Phantom Venom Academy FG",
+    "name": "Nike Phantom Venom",
     "brand": "NIKE",
     "gender": "WOMEN",
     "category": "FOOTBALL",
@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "name": "Nike Mercurial Vapor 13 Elite Tech Craft FG",
+    "name": "Nike Mercurial Vapor 13 Elite",
     "brand": "NIKE",
     "gender": "MEN",
     "category": "FOOTBALL",
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "name": "Nike Mercurial Superfly 7 Pro MDS FG",
+    "name": "Nike Mercurial Superfly",
     "brand": "NIKE",
     "gender": "MEN",
     "category": "FOOTBALL",
