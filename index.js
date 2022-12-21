@@ -1,3 +1,5 @@
+// import product from './test/testData';
+
 console.log('works');
 
 function fetchData() {
