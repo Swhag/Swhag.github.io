@@ -7,7 +7,8 @@
     "category": "RUNNING",
     "price": 160,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-665455a5-45de-40fb-945f-c1852b82400d/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
-    "slug": "nike-react-infinity-run-flyknit"
+    "slug": "nike-react-infinity-run-flyknit",
+    "limited": false
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "category": "RUNNING",
     "price": 130,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-5cc7de3b-2afc-49c2-a1e4-0508997d09e6/react-miler-mens-running-shoe-DgF6nr.jpg",
-    "slug": "nike-react-miler"
+    "slug": "nike-react-miler",
+    "limited": false
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "category": "RUNNING",
     "price": 120,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-33b0a0a5-c171-46cc-ad20-04a768703e47/air-zoom-pegasus-37-womens-running-shoe-Jl0bDf.jpg",
-    "slug": "nike-air-zoom-pegasus-37"
+    "slug": "nike-air-zoom-pegasus-37",
+    "limited": false
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "category": "RUNNING",
     "price": 180,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/99a7d3cb-e40c-4474-91c2-0f2e6d231fd2/joyride-run-flyknit-womens-running-shoe-HcfnJd.jpg",
-    "slug": "nike-joyride-run-flyknit"
+    "slug": "nike-joyride-run-flyknit",
+    "limited": false
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "category": "FOOTBALL",
     "price": 250,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9dda6202-e2ff-4711-9a09-0fcb7d90c164/mercurial-vapor-13-elite-fg-firm-ground-soccer-cleat-14MsF2.jpg",
-    "slug": "nike-mercurial-vapor-13-elite-fg"
+    "slug": "nike-mercurial-vapor-13-elite-fg",
+    "limited": false
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "category": "FOOTBALL",
     "price": 150,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/s1amp7uosrn0nqpsxeue/phantom-vision-elite-dynamic-fit-fg-firm-ground-soccer-cleat-19Kv1V.jpg",
-    "slug": "nike-phantom-vision-elite-dynamic-fit-fg"
+    "slug": "nike-phantom-vision-elite-dynamic-fit-fg",
+    "limited": false
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "category": "FOOTBALL",
     "price": 80,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/whegph8z9ornhxklc8rp/phantom-venom-academy-fg-firm-ground-soccer-cleat-6JVNll.jpg",
-    "slug": "nike-phantom-venom-academy-fg"
+    "slug": "nike-phantom-venom-academy-fg",
+    "limited": false
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "category": "FOOTBALL",
     "price": 145,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/vhbwnkor8sxt8qtecgia/mercurial-vapor-13-elite-tech-craft-fg-firm-ground-soccer-cleat-l38JPj.jpg",
-    "slug": "nike-mercurial-vapor-13-elite-tech-craft-fg"
+    "slug": "nike-mercurial-vapor-13-elite-tech-craft-fg",
+    "limited": false
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "category": "FOOTBALL",
     "price": 137,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-a52a8aec-22dc-4982-961b-75c5f4c72805/mercurial-superfly-7-pro-mds-fg-firm-ground-soccer-cleat-mhcpdN.jpg",
-    "slug": "nike-mercurial-superfly-7-pro-mds-fg"
+    "slug": "nike-mercurial-superfly-7-pro-mds-fg",
+    "limited": false
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "category": "CASUAL",
     "price": 90,
     "imageURL": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/178b2a46-3ee4-492b-882e-f71efdd53a36/air-force-1-big-kids-shoe-2zqp8D.jpg",
-    "slug": "nike-air-force-1"
+    "slug": "nike-air-force-1",
+    "limited": false
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@
     "category": "CASUAL",
     "price": 100,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8439f823-86cf-4086-81d2-4f9ff9a66866/air-max-90-big-kids-shoe-1wzwJM.jpg",
-    "slug": "nike-air-max-90"
+    "slug": "nike-air-max-90",
+    "limited": false
   },
   {
     "id": 12,
@@ -117,7 +128,8 @@
     "category": "CASUAL",
     "price": 110,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-620aeb37-1b28-44b0-9b14-5572f8cbc948/air-max-90-ltr-big-kids-shoe-hdNLQ5.jpg",
-    "slug": "nike-air-max-90-ltr"
+    "slug": "nike-air-max-90-ltr",
+    "limited": false
   },
   {
     "id": 13,
@@ -127,7 +139,8 @@
     "category": "RUNNING",
     "price": 110,
     "imageURL": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/33888130-0320-41a1-ba53-a026decd8aa2/joyride-dual-run-big-kids-running-shoe-1HDJF8.jpg",
-    "slug": "nike-joyride-dual-run"
+    "slug": "nike-joyride-dual-run",
+    "limited": false
   },
   {
     "id": 14,
@@ -137,7 +150,8 @@
     "category": "RUNNING",
     "price": 80,
     "imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-73e54c0b-11a6-478b-9f90-bd97fcde872d/renew-run-big-kids-running-shoe-5Bpz93.jpg",
-    "slug": "nike-renew-run"
+    "slug": "nike-renew-run",
+    "limited": false
   },
   {
     "id": 16,
@@ -147,7 +161,8 @@
     "category": "FORMAL",
     "price": 30,
     "imageURL": "https://raw.githubusercontent.com/Swhag/store-app-project/main/src/images/HP1.jpg",
-    "slug": "bridgport-advice"
+    "slug": "bridgport-advice",
+    "limited": false
   },
   {
     "id": 15,
@@ -157,7 +172,8 @@
     "category": "FORMAL",
     "price": 80,
     "imageURL": "https://raw.githubusercontent.com/Swhag/store-app-project/main/src/images/HP2.jpg",
-    "slug": "beck"
+    "slug": "beck",
+    "limited": false
   },
   {
     "id": 17,
@@ -167,7 +183,8 @@
     "category": "FORMAL",
     "price": 70,
     "imageURL": "https://raw.githubusercontent.com/Swhag/store-app-project/main/src/images/HP3.jpg",
-    "slug": "fester"
+    "slug": "fester",
+    "limited": false
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@
     "category": "FORMAL",
     "price": 75,
     "imageURL": "https://raw.githubusercontent.com/Swhag/store-app-project/main/src/images/HP4.jpg",
-    "slug": "pixel"
+    "slug": "pixel",
+    "limited": false
   },
   {
     "id": 19,
@@ -187,7 +205,8 @@
     "category": "FORMAL",
     "price": 75,
     "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/Austin-Coffee_800x800.jpg?v=1574772988",
-    "slug": "austin"
+    "slug": "austin",
+    "limited": false
   },
   {
     "id": 20,
@@ -197,7 +216,8 @@
     "category": "FORMAL",
     "price": 30,
     "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009240000-11-SS-HL-0135-Black_800x800.jpg?v=1572264270",
-    "slug": "ss-hl-0135"
+    "slug": "ss-hl-0135",
+    "limited": false
   },
   {
     "id": 21,
@@ -207,7 +227,8 @@
     "category": "FORMAL",
     "price": 50,
     "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009250000-779-SS-HL-0136-Coffee_800x800.jpg?v=1571900372",
-    "slug": "ss-hl-0136"
+    "slug": "ss-hl-0136",
+    "limited": false
   },
   {
     "id": 22,
@@ -217,7 +238,8 @@
     "category": "FORMAL",
     "price": 35,
     "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/000300242-484-SS-HL-0128-Blue_800x800.jpg?v=1583235174",
-    "slug": "ss-hl-0128"
+    "slug": "ss-hl-0128",
+    "limited": false
   },
   {
     "id": 23,
@@ -227,7 +249,8 @@
     "category": "CASUAL",
     "price": 25,
     "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009170000-479-SS-MS-0075-Red_800x800.jpg?v=1570688687",
-    "slug": "ss-ms-0075"
+    "slug": "ss-ms-0075",
+    "limited": false
   },
   {
     "id": 24,
@@ -237,7 +260,8 @@
     "category": "CASUAL",
     "price": 35,
     "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/009170000-615-SS-MS-0075-TAN_800x800.jpg?v=1570688687",
-    "slug": "ss-ms-0075"
+    "slug": "ss-ms-0075",
+    "limited": false
   },
   {
     "id": 25,
@@ -247,7 +271,8 @@
     "category": "CASUAL",
     "price": 30,
     "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/SS-PM-0093_1_800x800.jpg?v=1570601253",
-    "slug": "ss-pm-0093"
+    "slug": "ss-pm-0093",
+    "limited": false
   },
   {
     "id": 26,
@@ -257,7 +282,8 @@
     "category": "CASUAL",
     "price": 55,
     "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/ef901c7aeac042578eceab9d0159196c_9366/Nizza_x_Disney_Sport_Goofy_Shoes_White_FW0651_01_standard.jpg",
-    "slug": "nizza-x-disney"
+    "slug": "nizza-x-disney",
+    "limited": false
   },
   {
     "id": 27,
@@ -267,7 +293,8 @@
     "category": "CASUAL",
     "price": 65,
     "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/a36518227134495da766ab9d01772fa2_9366/X_PLR_Shoes_Red_FY9063_01_standard.jpg",
-    "slug": "x_plr"
+    "slug": "x_plr",
+    "limited": false
   },
   {
     "id": 28,
@@ -277,7 +304,8 @@
     "category": "CASUAL",
     "price": 55,
     "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/d0720712d81e42b1b30fa80800826447_9366/Stan_Smith_Shoes_White_M20607_M20607_01_standard.jpg",
-    "slug": "stan-smith"
+    "slug": "stan-smith",
+    "limited": false
   },
   {
     "id": 29,
@@ -287,7 +315,8 @@
     "category": "RUNNING",
     "price": 120,
     "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/99ca762cb9054caf82fbabc500fd146e_9366/NMD_R1_Shoes_Blue_FY9392_01_standard.jpg",
-    "slug": "nmd_r1"
+    "slug": "nmd_r1",
+    "limited": false
   },
   {
     "id": 30,
@@ -297,7 +326,8 @@
     "category": "CASUAL",
     "price": 140,
     "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/90f85768e3894aeaab67aba0014a3379_9366/NMD_R1_Shoes_Red_FY9389_01_standard.jpg",
-    "slug": "nmd_r1-flash-red"
+    "slug": "nmd_r1-flash-red",
+    "limited": false
   },
   {
     "id": 31,
@@ -307,7 +337,8 @@
     "category": "CASUAL",
     "price": 90,
     "imageURL": "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/12365dbc7c424288b7cdab4900dc7099_9366/Superstar_Shoes_White_FW3553_FW3553_01_standard.jpg",
-    "slug": "superstar"
+    "slug": "superstar",
+    "limited": false
   },
   {
     "id": 32,
@@ -317,7 +348,8 @@
     "category": "CASUAL",
     "price": 70,
     "imageURL": "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/7599294868804d78a1b1ab6f01718a5e_9366/Club_C_Revenge_Men's_Shoes_White_FV9877_01_standard.jpg",
-    "slug": "club-c-revenge-mens"
+    "slug": "club-c-revenge-mens",
+    "limited": false
   },
   {
     "id": 33,
@@ -327,7 +359,8 @@
     "category": "CASUAL",
     "price": 60,
     "imageURL": "https://images.vans.com/is/image/Vans/UUK24I-HERO?$583x583$",
-    "slug": "sk80-low"
+    "slug": "sk80-low",
+    "limited": false
   },
   {
     "id": 34,
@@ -337,7 +370,8 @@
     "category": "CASUAL",
     "price": 72,
     "imageURL": "https://images.vans.com/is/image/Vans/MV122M-HERO?$583x583$",
-    "slug": "michael-feburary-sk8-hi"
+    "slug": "michael-feburary-sk8-hi",
+    "limited": false
   },
   {
     "id": 35,
@@ -347,7 +381,8 @@
     "category": "CASUAL",
     "price": 100,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/015/567/335/original/CM100018M.png.png",
-    "slug": "rally-pro-black-cm100018m"
+    "slug": "rally-pro-black-cm100018m",
+    "limited": false
   },
   {
     "id": 36,
@@ -357,7 +392,8 @@
     "category": "CASUAL",
     "price": 100,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/552/840/original/476518_00.png.png",
-    "slug": "tyler-the-creator-x-foot-locker-x-chuck-70-artist-series-ttc-fl-c70-crm"
+    "slug": "tyler-the-creator-x-foot-locker-x-chuck-70-artist-series-ttc-fl-c70-crm",
+    "limited": false
   },
   {
     "id": 37,
@@ -367,7 +403,8 @@
     "category": "CASUAL",
     "price": 120,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/015/298/767/original/77243_00.png.png",
-    "slug": "ct-hi-x-comme-des-garcons-play-150205c"
+    "slug": "ct-hi-x-comme-des-garcons-play-150205c",
+    "limited": false
   },
   {
     "id": 38,
@@ -377,7 +414,8 @@
     "category": "CASUAL",
     "price": 210,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/009/249/006/original/259509_00.png.png",
-    "slug": "gucci-pursuit-72-rubber-slides-black-308234-gib10-1098"
+    "slug": "gucci-pursuit-72-rubber-slides-black-308234-gib10-1098",
+    "limited": false
   },
   {
     "id": 39,
@@ -387,7 +425,8 @@
     "category": "BASKETBALL",
     "price": 130,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/840/270/original/491192_00.png.png",
-    "slug": "friends-x-kyrie-5-ao2918-006"
+    "slug": "friends-x-kyrie-5-ao2918-006",
+    "limited": false
   },
   {
     "id": 40,
@@ -397,7 +436,8 @@
     "category": "CASUAL",
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/627/570/original/491891_00.png.png",
-    "slug": "air-max-97-neon-seoul-am-97-seoul"
+    "slug": "air-max-97-neon-seoul-am-97-seoul",
+    "limited": false
   },
   {
     "id": 41,
@@ -407,7 +447,8 @@
     "category": "CASUAL",
     "price": 190,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/545/549/original/489359_00.png.png",
-    "slug": "air-fear-of-god-strap-black-at8087-002"
+    "slug": "air-fear-of-god-strap-black-at8087-002",
+    "limited": false
   },
   {
     "id": 42,
@@ -417,7 +458,8 @@
     "category": "CASUAL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/017/763/484/original/466439_00.png.png",
-    "slug": "off-white-x-air-max-90-black-aa7293-001"
+    "slug": "off-white-x-air-max-90-black-aa7293-001",
+    "limited": false
   },
   {
     "id": 43,
@@ -427,7 +469,8 @@
     "category": "CASUAL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/750/761/original/351623_00.png.png",
-    "slug": "off-white-x-air-presto-aa3830-002"
+    "slug": "off-white-x-air-presto-aa3830-002",
+    "limited": false
   },
   {
     "id": 44,
@@ -437,7 +480,8 @@
     "category": "CASUAL",
     "price": 180,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/019/246/220/original/491897_00.png.png",
-    "slug": "sacai-x-ldv-waffle-varsity-blue-bv0073-400"
+    "slug": "sacai-x-ldv-waffle-varsity-blue-bv0073-400",
+    "limited": false
   },
   {
     "id": 45,
@@ -447,7 +491,8 @@
     "category": "CASUAL",
     "price": 110,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/545/501/original/507173_00.png.png",
-    "slug": "blazer-mid-77-vintage-cream-navy-cd9318-100"
+    "slug": "blazer-mid-77-vintage-cream-navy-cd9318-100",
+    "limited": false
   },
   {
     "id": 46,
@@ -457,7 +502,8 @@
     "category": "CASUAL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/249/043/original/494127_00.png.png",
-    "slug": "atmos-x-air-max-2-light-logos-bv7406-001"
+    "slug": "atmos-x-air-max-2-light-logos-bv7406-001",
+    "limited": false
   },
   {
     "id": 47,
@@ -467,7 +513,8 @@
     "category": "CASUAL",
     "price": 100,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/019/994/877/original/AJ7747_800.png.png",
-    "slug": "air-force-1-07-lv8-team-orange-aj7747-800"
+    "slug": "air-force-1-07-lv8-team-orange-aj7747-800",
+    "limited": false
   },
   {
     "id": 48,
@@ -477,7 +524,8 @@
     "category": "CASUAL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/019/804/999/original/488028_00.png.png",
-    "slug": "air-max-90-qs-mars-landing-cd0920-600"
+    "slug": "air-max-90-qs-mars-landing-cd0920-600",
+    "limited": false
   },
   {
     "id": 49,
@@ -487,7 +535,8 @@
     "category": "CASUAL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/017/794/455/original/394710_00.png.png",
-    "slug": "off-white-x-air-max-90-desert-ore-aa7293-200"
+    "slug": "off-white-x-air-max-90-desert-ore-aa7293-200",
+    "limited": false
   },
   {
     "id": 50,
@@ -497,7 +546,8 @@
     "category": "CASUAL",
     "price": 250,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/010/564/058/original/303229_00.png.png",
-    "slug": "off-white-x-air-vapormax-part-2-aa3831-100"
+    "slug": "off-white-x-air-vapormax-part-2-aa3831-100",
+    "limited": false
   },
   {
     "id": 51,
@@ -507,7 +557,8 @@
     "category": "CASUAL",
     "price": 150,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/013/832/092/original/306892_00.png.png",
-    "slug": "travis-scott-x-air-force-1-sail-aq4211-101"
+    "slug": "travis-scott-x-air-force-1-sail-aq4211-101",
+    "limited": false
   },
   {
     "id": 52,
@@ -517,7 +568,8 @@
     "category": "CASUAL",
     "price": 100,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/881/688/original/508101_00.png.png",
-    "slug": "air-force-1-low-earth-day-ci5545-100"
+    "slug": "air-force-1-low-earth-day-ci5545-100",
+    "limited": false
   },
   {
     "id": 53,
@@ -527,7 +579,8 @@
     "category": "CASUAL",
     "price": 100,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/019/367/662/original/484799_00.png.png",
-    "slug": "air-force-1-low-gs-have-a-nike-day-white-af1-gs-hand-wht"
+    "slug": "air-force-1-low-gs-have-a-nike-day-white-af1-gs-hand-wht",
+    "limited": true
   },
   {
     "id": 54,
@@ -537,7 +590,8 @@
     "category": "CASUAL",
     "price": 90,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/898/008/original/482531_00.png.png",
-    "slug": "air-force-1-07-low-university-blue-ao2423-100"
+    "slug": "air-force-1-07-low-university-blue-ao2423-100",
+    "limited": true
   },
   {
     "id": 55,
@@ -547,7 +601,8 @@
     "category": "CASUAL",
     "price": 90,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/010/222/352/original/240_00.png.png",
-    "slug": "nike-air-force-1-315122-111"
+    "slug": "nike-air-force-1-315122-111",
+    "limited": true
   },
   {
     "id": 56,
@@ -557,7 +612,8 @@
     "category": "CASUAL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/562/245/original/480142_00.png.png",
-    "slug": "air-max-97-game-royal-921826-404"
+    "slug": "air-max-97-game-royal-921826-404",
+    "limited": true
   },
   {
     "id": 57,
@@ -567,7 +623,8 @@
     "category": "CASUAL",
     "price": 190,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/627/586/original/487222_00.png.png",
-    "slug": "air-fear-of-god-strap-light-bone-at8087-001"
+    "slug": "air-fear-of-god-strap-light-bone-at8087-001",
+    "limited": false
   },
   {
     "id": 58,
@@ -577,7 +634,8 @@
     "category": "CASUAL",
     "price": 170,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/737/643/original/504006_00.png.png",
-    "slug": "air-fear-of-god-moccasin-pure-platinum-afog-moc-plat"
+    "slug": "air-fear-of-god-moccasin-pure-platinum-afog-moc-plat",
+    "limited": false
   },
   {
     "id": 59,
@@ -587,7 +645,8 @@
     "category": "RUNNING",
     "price": 250,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/321/832/original/503571_00.png.png",
-    "slug": "cactus-plant-flea-market-x-air-vapormax-2019-cpfm-vapormax"
+    "slug": "cactus-plant-flea-market-x-air-vapormax-2019-cpfm-vapormax",
+    "limited": false
   },
   {
     "id": 60,
@@ -597,7 +656,8 @@
     "category": "RUNNING",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/010/988/952/original/180155_00.png.png",
-    "slug": "air-max-97-triple-white-921826-101"
+    "slug": "air-max-97-triple-white-921826-101",
+    "limited": false
   },
   {
     "id": 61,
@@ -607,7 +667,8 @@
     "category": "RUNNING",
     "price": 150,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/010/634/133/original/303217_00.png.png",
-    "slug": "air-max-270-white-ah8050-100"
+    "slug": "air-max-270-white-ah8050-100",
+    "limited": false
   },
   {
     "id": 62,
@@ -617,7 +678,8 @@
     "category": "CASUAL",
     "price": 60,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/011/051/956/original/335725_00.png.png",
-    "slug": "old-skool-yacht-club-vn0a38g1r1q"
+    "slug": "old-skool-yacht-club-vn0a38g1r1q",
+    "limited": false
   },
   {
     "id": 63,
@@ -627,7 +689,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/624/696/original/FU9013.png.png",
-    "slug": "yeezy-boost-350-v2-black-yzy-350-v2-blk"
+    "slug": "yeezy-boost-350-v2-black-yzy-350-v2-blk",
+    "limited": false
   },
   {
     "id": 64,
@@ -637,7 +700,8 @@
     "category": "CASUAL",
     "price": 300,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/147/972/original/504187_00.png.png",
-    "slug": "yeezy-boost-700-v2-vanta-yzy-700-v2-vanta"
+    "slug": "yeezy-boost-700-v2-vanta-yzy-700-v2-vanta",
+    "limited": false
   },
   {
     "id": 65,
@@ -647,7 +711,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/008/707/328/original/152603_00.png.png",
-    "slug": "yeezy-boost-350-v2-b37571"
+    "slug": "yeezy-boost-350-v2-b37571",
+    "limited": false
   },
   {
     "id": 66,
@@ -657,7 +722,8 @@
     "category": "CASUAL",
     "price": 250,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/545/467/original/512006_00.png.png",
-    "slug": "pharrell-x-billionaire-boys-club-x-nmd-human-race-trail-blue-plaid-ef7387"
+    "slug": "pharrell-x-billionaire-boys-club-x-nmd-human-race-trail-blue-plaid-ef7387",
+    "limited": false
   },
   {
     "id": 67,
@@ -667,7 +733,8 @@
     "category": "CASUAL",
     "price": 300,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/287/568/original/480136_00.png.png",
-    "slug": "yeezy-boost-700-analog-yeezy-boost-700-analog"
+    "slug": "yeezy-boost-700-analog-yeezy-boost-700-analog",
+    "limited": false
   },
   {
     "id": 68,
@@ -677,7 +744,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/357/863/original/508082_00.png.png",
-    "slug": "yeezy-350-v2-glow-in-the-dark-eh5360"
+    "slug": "yeezy-350-v2-glow-in-the-dark-eh5360",
+    "limited": false
   },
   {
     "id": 69,
@@ -687,7 +755,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/008/654/534/original/152982_00.png.png",
-    "slug": "yeezy-boost-350-v2-beluga-2-0-ah2203"
+    "slug": "yeezy-boost-350-v2-beluga-2-0-ah2203",
+    "limited": false
   },
   {
     "id": 70,
@@ -697,7 +766,8 @@
     "category": "CASUAL",
     "price": 300,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/019/367/689/original/479750_00.png.png",
-    "slug": "yeezy-boost-700-inertia-yeezy-boost-700-inertia"
+    "slug": "yeezy-boost-700-inertia-yeezy-boost-700-inertia",
+    "limited": false
   },
   {
     "id": 71,
@@ -707,7 +777,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/014/037/000/original/357808_00.png.png",
-    "slug": "yeezy-boost-350-v2-sesame-f99710"
+    "slug": "yeezy-boost-350-v2-sesame-f99710",
+    "limited": false
   },
   {
     "id": 72,
@@ -717,7 +788,8 @@
     "category": "CASUAL",
     "price": 300,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/014/507/851/original/195483_00.png.png",
-    "slug": "yeezy-wave-runner-700-76fa2bf7-9596-46cb-9842-e024a94baa6c"
+    "slug": "yeezy-wave-runner-700-76fa2bf7-9596-46cb-9842-e024a94baa6c",
+    "limited": false
   },
   {
     "id": 73,
@@ -727,7 +799,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/017/488/396/original/424152_00.png",
-    "slug": "yeezy-boost-350-v2-static-ef2905"
+    "slug": "yeezy-boost-350-v2-static-ef2905",
+    "limited": false
   },
   {
     "id": 74,
@@ -737,7 +810,8 @@
     "category": "CASUAL",
     "price": 150,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/666/882/original/486579_00.png.png",
-    "slug": "pharrell-x-solar-hu-glide-st-chinese-new-year-ee8701"
+    "slug": "pharrell-x-solar-hu-glide-st-chinese-new-year-ee8701",
+    "limited": false
   },
   {
     "id": 75,
@@ -747,7 +821,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/019/471/948/original/487214_00.png.png",
-    "slug": "yeezy-boost-350-v2-clay-yzy-350-v2-clay"
+    "slug": "yeezy-boost-350-v2-clay-yzy-350-v2-clay",
+    "limited": false
   },
   {
     "id": 76,
@@ -757,7 +832,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/014/822/680/original/116662_00.png.png",
-    "slug": "yeezy-boost-350-v2-cream-white-cp9366"
+    "slug": "yeezy-boost-350-v2-cream-white-cp9366",
+    "limited": false
   },
   {
     "id": 77,
@@ -767,7 +843,8 @@
     "category": "CASUAL",
     "price": 300,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/951/283/original/492186_00.png.png",
-    "slug": "yeezy-boost-700-salt-yzy-700-salt"
+    "slug": "yeezy-boost-700-salt-yzy-700-salt",
+    "limited": false
   },
   {
     "id": 78,
@@ -777,7 +854,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/014/979/033/original/105568_00.png.png",
-    "slug": "yeezy-boost-350-v2-zebra-cp9654"
+    "slug": "yeezy-boost-350-v2-zebra-cp9654",
+    "limited": false
   },
   {
     "id": 79,
@@ -787,7 +865,8 @@
     "category": "CASUAL",
     "price": 130,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/249/956/original/EF3326.png.png",
-    "slug": "nmd_r1-speckle-pack-white-ef3326"
+    "slug": "nmd_r1-speckle-pack-white-ef3326",
+    "limited": true
   },
   {
     "id": 80,
@@ -797,7 +876,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/598/505/original/348063_00.png.png",
-    "slug": "yeezy-boost-350-v2-ice-yellow-f36980"
+    "slug": "yeezy-boost-350-v2-ice-yellow-f36980",
+    "limited": true
   },
   {
     "id": 81,
@@ -807,7 +887,8 @@
     "category": "CASUAL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/016/928/118/original/155573_00.png.png",
-    "slug": "yeezy-boost-350-v2-b37572"
+    "slug": "yeezy-boost-350-v2-b37572",
+    "limited": true
   },
   {
     "id": 82,
@@ -817,7 +898,8 @@
     "category": "RUNNING",
     "price": 130,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/011/292/904/original/298048_00.png.png",
-    "slug": "nmd_r1-blizzard-b79759"
+    "slug": "nmd_r1-blizzard-b79759",
+    "limited": true
   },
   {
     "id": 83,
@@ -827,7 +909,8 @@
     "category": "BASKETBALL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/011/119/994/original/218099_00.png.png",
-    "slug": "air-jordan-1-retro-high-og-shadow-2018-555088-013"
+    "slug": "air-jordan-1-retro-high-og-shadow-2018-555088-013",
+    "limited": false
   },
   {
     "id": 84,
@@ -837,7 +920,8 @@
     "category": "BASKETBALL",
     "price": 140,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/806/444/original/507844_00.png.png",
-    "slug": "air-jordan-4-retro-og-gs-bred-408452-060"
+    "slug": "air-jordan-4-retro-og-gs-bred-408452-060",
+    "limited": false
   },
   {
     "id": 85,
@@ -847,7 +931,8 @@
     "category": "BASKETBALL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/008/654/900/original/52015_00.png.png",
-    "slug": "air-jordan-11-retro-space-jam-378037-003"
+    "slug": "air-jordan-11-retro-space-jam-378037-003",
+    "limited": false
   },
   {
     "id": 86,
@@ -857,7 +942,8 @@
     "category": "BASKETBALL",
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/008/870/353/original/235806_00.png.png",
-    "slug": "air-jordan-11-retro-gym-red-378037-623-abb4fed8-42d8-4998-9858-47500cc06cc7"
+    "slug": "air-jordan-11-retro-gym-red-378037-623-abb4fed8-42d8-4998-9858-47500cc06cc7",
+    "limited": false
   },
   {
     "id": 87,
@@ -867,7 +953,8 @@
     "category": "BASKETBALL",
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/010/223/048/original/13607_00.png.png",
-    "slug": "air-jordan-11-retro-legend-blue-378037-117"
+    "slug": "air-jordan-11-retro-legend-blue-378037-117",
+    "limited": false
   },
   {
     "id": 88,
@@ -877,7 +964,8 @@
     "category": "CASUAL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/545/481/original/509480_00.png.png",
-    "slug": "wmns-air-jordan-1-retro-high-og-panda-cd0461-007"
+    "slug": "wmns-air-jordan-1-retro-high-og-panda-cd0461-007",
+    "limited": false
   },
   {
     "id": 89,
@@ -887,7 +975,8 @@
     "category": "CASUAL",
     "price": 110,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/910/690/original/554724_065.png.png",
-    "slug": "air-jordan-1-mid-554724-065"
+    "slug": "air-jordan-1-mid-554724-065",
+    "limited": false
   },
   {
     "id": 90,
@@ -897,7 +986,8 @@
     "category": "CASUAL",
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/806/485/original/461782_00.png.png",
-    "slug": "air-jordan-4-retro-bred-2019-308497-060"
+    "slug": "air-jordan-4-retro-bred-2019-308497-060",
+    "limited": false
   },
   {
     "id": 91,
@@ -907,7 +997,8 @@
     "category": "CASUAL",
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/675/311/original/464372_00.png.png",
-    "slug": "air-jordan-6-retro-black-infrared-384664-060"
+    "slug": "air-jordan-6-retro-black-infrared-384664-060",
+    "limited": false
   },
   {
     "id": 92,
@@ -917,7 +1008,8 @@
     "category": "CASUAL",
     "price": 190,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/042/384/original/500924_00.png.png",
-    "slug": "wmns-air-jordan-12-retro-reptile-ao6068-007"
+    "slug": "wmns-air-jordan-12-retro-reptile-ao6068-007",
+    "limited": false
   },
   {
     "id": 93,
@@ -927,7 +1019,8 @@
     "category": "CASUAL",
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/071/547/original/479524_00.png.png",
-    "slug": "air-jordan-4-retro-laser-aj4-laser"
+    "slug": "air-jordan-4-retro-laser-aj4-laser",
+    "limited": false
   },
   {
     "id": 94,
@@ -937,7 +1030,8 @@
     "category": "CASUAL",
     "price": 190,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/219/518/original/335047_00.png.png",
-    "slug": "off-white-x-air-jordan-1-retro-high-og-powder-blue-aq0818-148"
+    "slug": "off-white-x-air-jordan-1-retro-high-og-powder-blue-aq0818-148",
+    "limited": false
   },
   {
     "id": 95,
@@ -947,7 +1041,8 @@
     "category": "CASUAL",
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/474/777/original/TR_JSP_5_ICE.png.png",
-    "slug": "trophy-room-x-air-jordan-5-retro-ice-blue-tr-jsp-5-ice"
+    "slug": "trophy-room-x-air-jordan-5-retro-ice-blue-tr-jsp-5-ice",
+    "limited": false
   },
   {
     "id": 96,
@@ -957,7 +1052,8 @@
     "category": "CASUAL",
     "price": 225,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/478/518/original/365514_00.png.png",
-    "slug": "travis-scott-x-air-jordan-4-retro-cactus-jack-308497-406"
+    "slug": "travis-scott-x-air-jordan-4-retro-cactus-jack-308497-406",
+    "limited": false
   },
   {
     "id": 97,
@@ -967,7 +1063,8 @@
     "category": "CASUAL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/016/152/710/original/402491_00.png.png",
-    "slug": "air-jordan-1-retro-high-og-rookie-of-the-year-555088-700"
+    "slug": "air-jordan-1-retro-high-og-rookie-of-the-year-555088-700",
+    "limited": false
   },
   {
     "id": 98,
@@ -977,6 +1074,7 @@
     "category": "CASUAL",
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/783/111/original/488879_00.png.png",
-    "slug": "travis-scott-x-air-jordan-1-retro-high-og-cd4487-100"
+    "slug": "travis-scott-x-air-jordan-1-retro-high-og-cd4487-100",
+    "limited": false
   }
 ]
