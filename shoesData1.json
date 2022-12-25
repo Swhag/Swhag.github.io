@@ -146,7 +146,7 @@
     "gender": "MEN",
     "category": "FORMAL",
     "price": 30,
-    "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/BRIDGPORT_ADVICE-BLACK_1_800x800.jpg?v=1576567903",
+    "imageURL": "https://raw.githubusercontent.com/Swhag/store-app-project/main/src/images/HP1.jpg",
     "slug": "bridgport-advice"
   },
   {
@@ -156,27 +156,27 @@
     "gender": "MEN",
     "category": "FORMAL",
     "price": 80,
-    "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/Beck-Black_800x800.jpg",
+    "imageURL": "https://raw.githubusercontent.com/Swhag/store-app-project/main/src/images/HP2.jpg",
     "slug": "beck"
   },
   {
     "id": 17,
-    "name": "Fester",
+    "name": "Willie Bernard",
     "brand": "HUSHPUPPIES",
     "gender": "MEN",
     "category": "FORMAL",
     "price": 70,
-    "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/fester-Tan_800x800.jpg?v=1575537531",
+    "imageURL": "https://raw.githubusercontent.com/Swhag/store-app-project/main/src/images/HP3.jpg",
     "slug": "fester"
   },
   {
     "id": 18,
-    "name": "Pixel",
+    "name": "Crofton Loafer",
     "brand": "HUSHPUPPIES",
     "gender": "MEN",
     "category": "FORMAL",
     "price": 75,
-    "imageURL": "https://cdn.shopify.com/s/files/1/0016/0074/9623/products/PIXEL-TAN_800x800.jpg?v=1577420506",
+    "imageURL": "https://raw.githubusercontent.com/Swhag/store-app-project/main/src/images/HP4.jpg",
     "slug": "pixel"
   },
   {
