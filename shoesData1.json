@@ -408,329 +408,9 @@
     "slug": "michael-feburary-sk8-hi"
   },
   {
-    "category": "BASKETBALL",
+    "category": "CASUAL",
     "gender": "MEN",
     "id": 35,
-    "name": "Retro 'Shadow' 2018",
-    "slug": "air-jordan-1-retro-high-og-shadow-2018-555088-013",
-    "brand": "AIR JORDAN",
-    "price": 160,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/011/119/994/original/218099_00.png.png"
-  },
-  {
-    "category": "BASKETBALL",
-    "gender": "KIDS",
-    "id": 36,
-    "name": "Retro OG GS 'Bred' 2019",
-    "slug": "air-jordan-4-retro-og-gs-bred-408452-060",
-    "brand": "AIR JORDAN",
-    "price": 140,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/806/444/original/507844_00.png.png"
-  },
-  {
-    "category": "BASKETBALL",
-    "gender": "MEN",
-    "id": 37,
-    "name": "Retro 'Space Jam' 2016",
-    "slug": "air-jordan-11-retro-space-jam-378037-003",
-    "brand": "AIR JORDAN",
-    "price": 220,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/008/654/900/original/52015_00.png.png"
-  },
-  {
-    "category": "BASKETBALL",
-    "gender": "MEN",
-    "id": 38,
-    "name": "Retro 'Win Like '96'",
-    "slug": "air-jordan-11-retro-gym-red-378037-623-abb4fed8-42d8-4998-9858-47500cc06cc7",
-    "brand": "AIR JORDAN",
-    "price": 220,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/008/870/353/original/235806_00.png.png"
-  },
-  {
-    "category": "BASKETBALL",
-    "gender": "MEN",
-    "id": 39,
-    "name": "Retro 'Legend Blue' 2014",
-    "slug": "air-jordan-11-retro-legend-blue-378037-117",
-    "brand": "AIR JORDAN",
-    "price": 200,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/010/223/048/original/13607_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "WOMEN",
-    "id": 40,
-    "name": "Retro High OG 'Twist'",
-    "slug": "wmns-air-jordan-1-retro-high-og-panda-cd0461-007",
-    "brand": "AIR JORDAN",
-    "price": 160,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/545/481/original/509480_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 41,
-    "name": "Mid 'Multicolor Swoosh Black'",
-    "slug": "air-jordan-1-mid-554724-065",
-    "brand": "AIR JORDAN",
-    "price": 110,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/910/690/original/554724_065.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 42,
-    "name": "Retro OG 'Bred' 2019",
-    "slug": "air-jordan-4-retro-bred-2019-308497-060",
-    "brand": "AIR JORDAN",
-    "price": 200,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/806/485/original/461782_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 43,
-    "name": "Retro 'Infrared' 2019",
-    "slug": "air-jordan-6-retro-black-infrared-384664-060",
-    "brand": "AIR JORDAN",
-    "price": 200,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/675/311/original/464372_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "WOMEN",
-    "id": 44,
-    "name": "Air Jordan 12 Retro 'Reptile'",
-    "slug": "wmns-air-jordan-12-retro-reptile-ao6068-007",
-    "brand": "AIR JORDAN",
-    "price": 190,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/042/384/original/500924_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 45,
-    "name": "Retro 'Laser'",
-    "slug": "air-jordan-4-retro-laser-aj4-laser",
-    "brand": "AIR JORDAN",
-    "price": 200,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/071/547/original/479524_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 46,
-    "name": "Retro High OG 'UNC'",
-    "slug": "off-white-x-air-jordan-1-retro-high-og-powder-blue-aq0818-148",
-    "brand": "AIR JORDAN",
-    "price": 190,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/219/518/original/335047_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 47,
-    "name": "Trophy Room Retro 'Ice Blue'",
-    "slug": "trophy-room-x-air-jordan-5-retro-ice-blue-tr-jsp-5-ice",
-    "brand": "AIR JORDAN",
-    "price": 200,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/474/777/original/TR_JSP_5_ICE.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 48,
-    "name": "Travis Scott 'Cactus Jack'",
-    "slug": "travis-scott-x-air-jordan-4-retro-cactus-jack-308497-406",
-    "brand": "AIR JORDAN",
-    "price": 225,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/478/518/original/365514_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 49,
-    "name": "Retro OG 'Rookie of the Year'",
-    "slug": "air-jordan-1-retro-high-og-rookie-of-the-year-555088-700",
-    "brand": "AIR JORDAN",
-    "price": 160,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/016/152/710/original/402491_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 50,
-    "name": "Travis Scott Retro OG 'Mocha'",
-    "slug": "travis-scott-x-air-jordan-1-retro-high-og-cd4487-100",
-    "brand": "AIR JORDAN",
-    "price": 160,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/783/111/original/488879_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 51,
-    "name": "Patta Retro OG SP 'Shimmer'",
-    "slug": "patta-x-air-jordan-7-retro-og-sp-shimmer-patta-aj7-shm",
-    "brand": "AIR JORDAN",
-    "price": 200,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/321/847/original/473391_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 52,
-    "name": "Retro High OG 'Turbo Green'",
-    "slug": "air-jordan-1-retro-high-og-turbo-green-555088-311",
-    "brand": "AIR JORDAN",
-    "price": 160,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/552/901/original/404758_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 53,
-    "name": "Retro High OG 'Crimson Tint'",
-    "slug": "air-jordan-1-retro-high-og-crimson-tint-555088-081",
-    "brand": "AIR JORDAN",
-    "price": 160,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/249/059/original/485842_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "WOMEN",
-    "id": 54,
-    "name": "Retro Low 'Pink Snakeskin'",
-    "slug": "wmns-air-jordan-11-retro-low-orange-trance-ah7860-106",
-    "brand": "AIR JORDAN",
-    "price": 185,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/357/907/original/478963_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 55,
-    "name": "Retro High SB 'Lakers'",
-    "slug": "air-jordan-1-high-og-defiant-cd6578-507",
-    "brand": "AIR JORDAN",
-    "price": 175,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/270/533/original/CD6578_507.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 56,
-    "name": "Retro High OG 'Bred Toe'",
-    "slug": "air-jordan-1-retro-high-og-555088-610",
-    "brand": "AIR JORDAN",
-    "price": 160,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/009/559/594/original/144690_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 57,
-    "name": "Retro High OG 'Origin Story'",
-    "slug": "spider-verse-x-air-jordan-1-retro-high-og-origin-story",
-    "brand": "AIR JORDAN",
-    "price": 160,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/016/867/969/original/478648_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 58,
-    "name": "Retro 'Gym Red'",
-    "slug": "air-jordan-12-retro-bulls-130690-601",
-    "brand": "AIR JORDAN",
-    "price": 190,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/016/596/414/original/376931_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 59,
-    "name": "Retro Low 'Bone Snakeskin'",
-    "slug": "air-jordan-11-retro-low-snakeskin-2019-cd6846-002",
-    "brand": "AIR JORDAN",
-    "price": 185,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/219/116/original/CD6846_002.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 60,
-    "name": "Retro High SB 'Light Bone'",
-    "slug": "air-jordan-1-retro-high-sb-light-bone-cd6578-006",
-    "brand": "AIR JORDAN",
-    "price": 180,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/147/976/original/497870_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 61,
-    "name": "Retro High OG 'Phantom'",
-    "slug": "air-jordan-1-retro-high-og-black-phantom-555088-160",
-    "brand": "AIR JORDAN",
-    "price": 160,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/095/762/original/411931_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 62,
-    "name": "Politics Low 'Block Party'",
-    "slug": "sneaker-politics-x-air-jordan-1-low-block-party-sp-aj1-low-bp",
-    "brand": "AIR JORDAN",
-    "price": 100,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/317/617/original/SP_AJ1_LOW_BP.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 63,
-    "name": "Retro 'Platinum Tint'",
-    "slug": "air-jordan-11-retro-platinum-tint-378037-016",
-    "brand": "AIR JORDAN",
-    "price": 220,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/015/392/851/original/429772_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 64,
-    "name": "Retro 'Concord' 2018",
-    "slug": "air-jordan-11-retro-concord-2018-378037-100",
-    "brand": "AIR JORDAN",
-    "price": 220,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/016/934/177/original/351614_00.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 65,
-    "name": "Retro Low 'Navy Snakeskin'",
-    "slug": "air-jordan-11-retro-low-snakeskin-2019-cd6846-102",
-    "brand": "AIR JORDAN",
-    "price": 185,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/310/667/original/459705_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 66,
-    "name": "Retro OG 'White Cement' 2016",
-    "slug": "air-jordan-retro-4-og-cement-2016-836015-192",
-    "brand": "AIR JORDAN",
-    "price": 220,
-    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/008/654/831/original/31342_00.png.png"
-  },
-  {
-    "category": "CASUAL",
-    "gender": "MEN",
-    "id": 67,
     "name": "Rally Pro 'Black'",
     "slug": "rally-pro-black-cm100018m",
     "brand": "CHAMPION",
@@ -740,7 +420,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 68,
+    "id": 36,
     "name": "Chuck 70 'Artist Series'",
     "slug": "tyler-the-creator-x-foot-locker-x-chuck-70-artist-series-ttc-fl-c70-crm",
     "brand": "CONVERSE",
@@ -750,7 +430,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 69,
+    "id": 37,
     "name": "Chuck Taylor All Star 'Milk'",
     "slug": "ct-hi-x-comme-des-garcons-play-150205c",
     "brand": "CONVERSE",
@@ -760,7 +440,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 70,
+    "id": 38,
     "name": "Gucci Pursuit 'Rubber Slide'",
     "slug": "gucci-pursuit-72-rubber-slides-black-308234-gib10-1098",
     "brand": "GUCCI",
@@ -770,7 +450,7 @@
   {
     "category": "BASKETBALL",
     "gender": "MEN",
-    "id": 71,
+    "id": 39,
     "name": "Kyrie 5 'Friends'",
     "slug": "friends-x-kyrie-5-ao2918-006",
     "brand": "NIKE",
@@ -780,7 +460,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 72,
+    "id": 40,
     "name": "Air Max 97 'Neon Seoul'",
     "slug": "air-max-97-neon-seoul-am-97-seoul",
     "brand": "NIKE",
@@ -790,7 +470,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 73,
+    "id": 41,
     "name": "Air FOG Raid 'Black'",
     "slug": "air-fear-of-god-strap-black-at8087-002",
     "brand": "NIKE",
@@ -800,7 +480,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 74,
+    "id": 42,
     "name": "Air Max 90 'Black'",
     "slug": "off-white-x-air-max-90-black-aa7293-001",
     "brand": "NIKE",
@@ -810,7 +490,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 75,
+    "id": 43,
     "name": "Air Presto 'Black'",
     "slug": "off-white-x-air-presto-aa3830-002",
     "brand": "NIKE",
@@ -820,7 +500,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 76,
+    "id": 44,
     "name": "LDV Waffle 'Varsity Blue'",
     "slug": "sacai-x-ldv-waffle-varsity-blue-bv0073-400",
     "brand": "NIKE",
@@ -830,7 +510,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 77,
+    "id": 45,
     "name": "Blazer Mid '77 Vintage",
     "slug": "blazer-mid-77-vintage-cream-navy-cd9318-100",
     "brand": "NIKE",
@@ -840,7 +520,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 78,
+    "id": 46,
     "name": "Atmos x Air Max 2 'Logos'",
     "slug": "atmos-x-air-max-2-light-logos-bv7406-001",
     "brand": "NIKE",
@@ -850,7 +530,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 79,
+    "id": 47,
     "name": "Air Force 1 '07 LV8",
     "slug": "air-force-1-07-lv8-team-orange-aj7747-800",
     "brand": "NIKE",
@@ -860,7 +540,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 80,
+    "id": 48,
     "name": "Air Max 90 QS",
     "slug": "air-max-90-qs-mars-landing-cd0920-600",
     "brand": "NIKE",
@@ -870,7 +550,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 81,
+    "id": 49,
     "name": "Air Max 90 'Desert Ore'",
     "slug": "off-white-x-air-max-90-desert-ore-aa7293-200",
     "brand": "NIKE",
@@ -880,7 +560,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 82,
+    "id": 50,
     "name": "Air VaporMax 'Part 2'",
     "slug": "off-white-x-air-vapormax-part-2-aa3831-100",
     "brand": "NIKE",
@@ -890,7 +570,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 83,
+    "id": 51,
     "name": "Travis Scott x Air Force 1",
     "slug": "travis-scott-x-air-force-1-sail-aq4211-101",
     "brand": "NIKE",
@@ -900,7 +580,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 84,
+    "id": 52,
     "name": "Harrington x AF1 'Earth Day'",
     "slug": "air-force-1-low-earth-day-ci5545-100",
     "brand": "NIKE",
@@ -910,7 +590,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 85,
+    "id": 53,
     "name": "AF1 Low 'Have a Nike Day'",
     "slug": "air-force-1-low-gs-have-a-nike-day-white-af1-gs-hand-wht",
     "brand": "NIKE",
@@ -920,7 +600,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 86,
+    "id": 54,
     "name": "AF1 '07 Low 'University Blue'",
     "slug": "air-force-1-07-low-university-blue-ao2423-100",
     "brand": "NIKE",
@@ -930,7 +610,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 87,
+    "id": 55,
     "name": "AF1 '07 'White'",
     "slug": "nike-air-force-1-315122-111",
     "brand": "NIKE",
@@ -940,7 +620,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 88,
+    "id": 56,
     "name": "Air Max 97 'All Star Jersey'",
     "slug": "air-max-97-game-royal-921826-404",
     "brand": "NIKE",
@@ -950,7 +630,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 89,
+    "id": 57,
     "name": "Air FOG Raid 'Light Bone'",
     "slug": "air-fear-of-god-strap-light-bone-at8087-001",
     "brand": "NIKE",
@@ -960,7 +640,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 90,
+    "id": 58,
     "name": "Air FOG Moc 'Pure Platinum'",
     "slug": "air-fear-of-god-moccasin-pure-platinum-afog-moc-plat",
     "brand": "NIKE",
@@ -970,7 +650,7 @@
   {
     "category": "RUNNING",
     "gender": "WOMEN",
-    "id": 91,
+    "id": 59,
     "name": "Air VaporMax 2019 'CPFM'",
     "slug": "cactus-plant-flea-market-x-air-vapormax-2019-cpfm-vapormax",
     "brand": "NIKE",
@@ -980,7 +660,7 @@
   {
     "category": "RUNNING",
     "gender": "MEN",
-    "id": 92,
+    "id": 60,
     "name": "Air Max 97 'Triple White'",
     "slug": "air-max-97-triple-white-921826-101",
     "brand": "NIKE",
@@ -990,7 +670,7 @@
   {
     "category": "RUNNING",
     "gender": "MEN",
-    "id": 93,
+    "id": 61,
     "name": "Air Max 270 'White'",
     "slug": "air-max-270-white-ah8050-100",
     "brand": "NIKE",
@@ -1000,7 +680,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 94,
+    "id": 62,
     "name": "Old Skool 'Yacht Club'",
     "slug": "old-skool-yacht-club-vn0a38g1r1q",
     "brand": "VANS",
@@ -1010,7 +690,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 95,
+    "id": 63,
     "name": "Yeezy 'Black Non-Reflective'",
     "slug": "yeezy-boost-350-v2-black-yzy-350-v2-blk",
     "brand": "ADIDAS",
@@ -1020,7 +700,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 96,
+    "id": 64,
     "name": "Yeezy Boost 700 V2 'Vanta'",
     "slug": "yeezy-boost-700-v2-vanta-yzy-700-v2-vanta",
     "brand": "ADIDAS",
@@ -1030,7 +710,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 97,
+    "id": 65,
     "name": "Yeezy 'Blue Tint'",
     "slug": "yeezy-boost-350-v2-b37571",
     "brand": "ADIDAS",
@@ -1040,7 +720,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 98,
+    "id": 66,
     "name": "Pharrell x NMD",
     "slug": "pharrell-x-billionaire-boys-club-x-nmd-human-race-trail-blue-plaid-ef7387",
     "brand": "ADIDAS",
@@ -1050,7 +730,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 99,
+    "id": 67,
     "name": "Yeezy Boost 700 'Analog'",
     "slug": "yeezy-boost-700-analog-yeezy-boost-700-analog",
     "brand": "ADIDAS",
@@ -1060,7 +740,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 100,
+    "id": 68,
     "name": "Yeezy GID 'Glow'",
     "slug": "yeezy-350-v2-glow-in-the-dark-eh5360",
     "brand": "ADIDAS",
@@ -1070,7 +750,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 101,
+    "id": 69,
     "name": "Yeezy 'Beluga 2.0'",
     "slug": "yeezy-boost-350-v2-beluga-2-0-ah2203",
     "brand": "ADIDAS",
@@ -1080,7 +760,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 102,
+    "id": 70,
     "name": "Yeezy Boost 700 'Inertia'",
     "slug": "yeezy-boost-700-inertia-yeezy-boost-700-inertia",
     "brand": "ADIDAS",
@@ -1090,7 +770,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 103,
+    "id": 71,
     "name": "Yeezy 'Sesame'",
     "slug": "yeezy-boost-350-v2-sesame-f99710",
     "brand": "ADIDAS",
@@ -1100,7 +780,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 104,
+    "id": 72,
     "name": "Yeezy Boost 700 'Wave Runner'",
     "slug": "yeezy-wave-runner-700-76fa2bf7-9596-46cb-9842-e024a94baa6c",
     "brand": "ADIDAS",
@@ -1110,7 +790,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 105,
+    "id": 73,
     "name": "Yeezy 'Static Non-Reflective'",
     "slug": "yeezy-boost-350-v2-static-ef2905",
     "brand": "ADIDAS",
@@ -1120,7 +800,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 106,
+    "id": 74,
     "name": "Pharrell x Solar Hu Glide ST",
     "slug": "pharrell-x-solar-hu-glide-st-chinese-new-year-ee8701",
     "brand": "ADIDAS",
@@ -1130,7 +810,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 107,
+    "id": 75,
     "name": "Yeezy 'Clay'",
     "slug": "yeezy-boost-350-v2-clay-yzy-350-v2-clay",
     "brand": "ADIDAS",
@@ -1140,7 +820,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 108,
+    "id": 76,
     "name": "Yeezy 'Triple White'",
     "slug": "yeezy-boost-350-v2-cream-white-cp9366",
     "brand": "ADIDAS",
@@ -1150,7 +830,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 109,
+    "id": 77,
     "name": "Yeezy Boost 700 'Salt'",
     "slug": "yeezy-boost-700-salt-yzy-700-salt",
     "brand": "ADIDAS",
@@ -1160,7 +840,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 110,
+    "id": 78,
     "name": "Yeezy 'Zebra'",
     "slug": "yeezy-boost-350-v2-zebra-cp9654",
     "brand": "ADIDAS",
@@ -1170,7 +850,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 111,
+    "id": 79,
     "name": "NMD_R1 'Speckle Pack - White'",
     "slug": "nmd_r1-speckle-pack-white-ef3326",
     "brand": "ADIDAS",
@@ -1180,7 +860,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 112,
+    "id": 80,
     "name": "Yeezy 'Butter'",
     "slug": "yeezy-boost-350-v2-ice-yellow-f36980",
     "brand": "ADIDAS",
@@ -1190,7 +870,7 @@
   {
     "category": "CASUAL",
     "gender": "MEN",
-    "id": 113,
+    "id": 81,
     "name": "Yeezy 'Semi Frozen Yellow'",
     "slug": "yeezy-boost-350-v2-b37572",
     "brand": "ADIDAS",
@@ -1200,11 +880,171 @@
   {
     "category": "RUNNING",
     "gender": "MEN",
-    "id": 114,
+    "id": 82,
     "name": "NMD_R1 'Blizzard'",
     "slug": "nmd_r1-blizzard-b79759",
     "brand": "ADIDAS",
     "price": 130,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/011/292/904/original/298048_00.png.png"
+  },
+  {
+    "category": "BASKETBALL",
+    "gender": "MEN",
+    "id": 83,
+    "name": "Retro 'Shadow' 2018",
+    "slug": "air-jordan-1-retro-high-og-shadow-2018-555088-013",
+    "brand": "AIR JORDAN",
+    "price": 160,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/011/119/994/original/218099_00.png.png"
+  },
+  {
+    "category": "BASKETBALL",
+    "gender": "KIDS",
+    "id": 84,
+    "name": "Retro OG GS 'Bred' 2019",
+    "slug": "air-jordan-4-retro-og-gs-bred-408452-060",
+    "brand": "AIR JORDAN",
+    "price": 140,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/806/444/original/507844_00.png.png"
+  },
+  {
+    "category": "BASKETBALL",
+    "gender": "MEN",
+    "id": 85,
+    "name": "Retro 'Space Jam' 2016",
+    "slug": "air-jordan-11-retro-space-jam-378037-003",
+    "brand": "AIR JORDAN",
+    "price": 220,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/008/654/900/original/52015_00.png.png"
+  },
+  {
+    "category": "BASKETBALL",
+    "gender": "MEN",
+    "id": 86,
+    "name": "Retro 'Win Like '96'",
+    "slug": "air-jordan-11-retro-gym-red-378037-623-abb4fed8-42d8-4998-9858-47500cc06cc7",
+    "brand": "AIR JORDAN",
+    "price": 220,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/008/870/353/original/235806_00.png.png"
+  },
+  {
+    "category": "BASKETBALL",
+    "gender": "MEN",
+    "id": 87,
+    "name": "Retro 'Legend Blue' 2014",
+    "slug": "air-jordan-11-retro-legend-blue-378037-117",
+    "brand": "AIR JORDAN",
+    "price": 200,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/010/223/048/original/13607_00.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "WOMEN",
+    "id": 88,
+    "name": "Retro High OG 'Twist'",
+    "slug": "wmns-air-jordan-1-retro-high-og-panda-cd0461-007",
+    "brand": "AIR JORDAN",
+    "price": 160,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/545/481/original/509480_00.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "MEN",
+    "id": 89,
+    "name": "Mid 'Multicolor Swoosh Black'",
+    "slug": "air-jordan-1-mid-554724-065",
+    "brand": "AIR JORDAN",
+    "price": 110,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/910/690/original/554724_065.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "MEN",
+    "id": 90,
+    "name": "Retro OG 'Bred' 2019",
+    "slug": "air-jordan-4-retro-bred-2019-308497-060",
+    "brand": "AIR JORDAN",
+    "price": 200,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/806/485/original/461782_00.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "MEN",
+    "id": 91,
+    "name": "Retro 'Infrared' 2019",
+    "slug": "air-jordan-6-retro-black-infrared-384664-060",
+    "brand": "AIR JORDAN",
+    "price": 200,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/675/311/original/464372_00.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "WOMEN",
+    "id": 92,
+    "name": "Air Jordan 12 Retro 'Reptile'",
+    "slug": "wmns-air-jordan-12-retro-reptile-ao6068-007",
+    "brand": "AIR JORDAN",
+    "price": 190,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/042/384/original/500924_00.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "MEN",
+    "id": 93,
+    "name": "Retro 'Laser'",
+    "slug": "air-jordan-4-retro-laser-aj4-laser",
+    "brand": "AIR JORDAN",
+    "price": 200,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/071/547/original/479524_00.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "MEN",
+    "id": 94,
+    "name": "Retro High OG 'UNC'",
+    "slug": "off-white-x-air-jordan-1-retro-high-og-powder-blue-aq0818-148",
+    "brand": "AIR JORDAN",
+    "price": 190,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/219/518/original/335047_00.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "MEN",
+    "id": 95,
+    "name": "Trophy Room Retro 'Ice Blue'",
+    "slug": "trophy-room-x-air-jordan-5-retro-ice-blue-tr-jsp-5-ice",
+    "brand": "AIR JORDAN",
+    "price": 200,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/474/777/original/TR_JSP_5_ICE.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "MEN",
+    "id": 96,
+    "name": "Travis Scott 'Cactus Jack'",
+    "slug": "travis-scott-x-air-jordan-4-retro-cactus-jack-308497-406",
+    "brand": "AIR JORDAN",
+    "price": 225,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/478/518/original/365514_00.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "MEN",
+    "id": 97,
+    "name": "Retro OG 'Rookie of the Year'",
+    "slug": "air-jordan-1-retro-high-og-rookie-of-the-year-555088-700",
+    "brand": "AIR JORDAN",
+    "price": 160,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/016/152/710/original/402491_00.png.png"
+  },
+  {
+    "category": "CASUAL",
+    "gender": "MEN",
+    "id": 98,
+    "name": "Travis Scott Retro OG 'Mocha'",
+    "slug": "travis-scott-x-air-jordan-1-retro-high-og-cd4487-100",
+    "brand": "AIR JORDAN",
+    "price": 160,
+    "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/783/111/original/488879_00.png.png"
   }
 ]
