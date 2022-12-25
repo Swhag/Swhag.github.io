@@ -580,7 +580,7 @@
     "price": 100,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/019/367/662/original/484799_00.png.png",
     "slug": "air-force-1-low-gs-have-a-nike-day-white-af1-gs-hand-wht",
-    "limited": true
+    "limited": false
   },
   {
     "id": 54,
@@ -591,7 +591,7 @@
     "price": 90,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/898/008/original/482531_00.png.png",
     "slug": "air-force-1-07-low-university-blue-ao2423-100",
-    "limited": true
+    "limited": false
   },
   {
     "id": 55,
@@ -602,7 +602,7 @@
     "price": 90,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/010/222/352/original/240_00.png.png",
     "slug": "nike-air-force-1-315122-111",
-    "limited": true
+    "limited": false
   },
   {
     "id": 56,
@@ -613,7 +613,7 @@
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/562/245/original/480142_00.png.png",
     "slug": "air-max-97-game-royal-921826-404",
-    "limited": true
+    "limited": false
   },
   {
     "id": 57,
@@ -866,7 +866,7 @@
     "price": 130,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/249/956/original/EF3326.png.png",
     "slug": "nmd_r1-speckle-pack-white-ef3326",
-    "limited": true
+    "limited": false
   },
   {
     "id": 80,
@@ -877,7 +877,7 @@
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/598/505/original/348063_00.png.png",
     "slug": "yeezy-boost-350-v2-ice-yellow-f36980",
-    "limited": true
+    "limited": false
   },
   {
     "id": 81,
@@ -888,7 +888,7 @@
     "price": 220,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/016/928/118/original/155573_00.png.png",
     "slug": "yeezy-boost-350-v2-b37572",
-    "limited": true
+    "limited": false
   },
   {
     "id": 82,
@@ -899,7 +899,7 @@
     "price": 130,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/011/292/904/original/298048_00.png.png",
     "slug": "nmd_r1-blizzard-b79759",
-    "limited": true
+    "limited": false
   },
   {
     "id": 83,
@@ -998,7 +998,7 @@
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/675/311/original/464372_00.png.png",
     "slug": "air-jordan-6-retro-black-infrared-384664-060",
-    "limited": false
+    "limited": true
   },
   {
     "id": 92,
@@ -1009,7 +1009,7 @@
     "price": 190,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/042/384/original/500924_00.png.png",
     "slug": "wmns-air-jordan-12-retro-reptile-ao6068-007",
-    "limited": false
+    "limited": true
   },
   {
     "id": 93,
@@ -1020,7 +1020,7 @@
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/071/547/original/479524_00.png.png",
     "slug": "air-jordan-4-retro-laser-aj4-laser",
-    "limited": false
+    "limited": true
   },
   {
     "id": 94,
@@ -1031,7 +1031,7 @@
     "price": 190,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/219/518/original/335047_00.png.png",
     "slug": "off-white-x-air-jordan-1-retro-high-og-powder-blue-aq0818-148",
-    "limited": false
+    "limited": true
   },
   {
     "id": 95,
@@ -1042,7 +1042,7 @@
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/021/474/777/original/TR_JSP_5_ICE.png.png",
     "slug": "trophy-room-x-air-jordan-5-retro-ice-blue-tr-jsp-5-ice",
-    "limited": false
+    "limited": true
   },
   {
     "id": 96,
@@ -1053,7 +1053,7 @@
     "price": 225,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/012/478/518/original/365514_00.png.png",
     "slug": "travis-scott-x-air-jordan-4-retro-cactus-jack-308497-406",
-    "limited": false
+    "limited": true
   },
   {
     "id": 97,
@@ -1064,7 +1064,7 @@
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/016/152/710/original/402491_00.png.png",
     "slug": "air-jordan-1-retro-high-og-rookie-of-the-year-555088-700",
-    "limited": false
+    "limited": true
   },
   {
     "id": 98,
@@ -1075,6 +1075,6 @@
     "price": 160,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/018/783/111/original/488879_00.png.png",
     "slug": "travis-scott-x-air-jordan-1-retro-high-og-cd4487-100",
-    "limited": false
+    "limited": true
   }
 ]
