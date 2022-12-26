@@ -987,7 +987,7 @@
     "price": 200,
     "imageURL": "https://image.goat.com/attachments/product_template_pictures/images/020/806/485/original/461782_00.png.png",
     "slug": "air-jordan-4-retro-bred-2019-308497-060",
-    "limited": false
+    "limited": true
   },
   {
     "id": 91,
